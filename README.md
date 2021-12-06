@@ -1,7 +1,7 @@
 # Placement-material
 Contains placement related material from our on-campus placements, 2021 at IIT Bombay 
 ## Contributors:
-> - [**Abhishek Narayan Chaudhury**](https://www.linkedin.com/in/abhishek-chaudhury-07422b191) - Placed at HSBC, Kolkata as Analyst
+> - [**Abhishek Narayan Chaudhury**](https://www.linkedin.com/in/abhishek-chaudhury-07422b191) - Placed at TCS, Kolkata as Research and Innovation (R&I) Engineer
 > - [**Saptarshi Majumder**](https://www.linkedin.com/in/saptarshi-majumder-62251369) - Placed at Flipkart, Bangalore as Data Scientist 
 > - [**Subhadeep Chaudhuri**](www.linkedin.com/in/subhadeep-chaudhuri) - Placed at Honda R&D, Japan as Data Analyst  
 
