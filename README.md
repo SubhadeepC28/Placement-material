@@ -22,3 +22,4 @@ In addition to the uploaded content in this repository, most (almost all) of the
 > - [BrainStellar](https://brainstellar.com/puzzles/) - This one is Important!
 > - [Geek For Geeks](https://www.geeksforgeeks.org/puzzles/)
 > - [50 Challenging Problems in Probability](https://github.com/SubhadeepC28/Placement-material/blob/main/Preparatory%20Material/Puzzles/fifty_challenging_problems_in_probability.pdf) - Must do. Will never get a direct question, but important to improve the approach for solving problems.
+>  - Problelms that we ame across: https://drive.google.com/drive/folders/1yDc9HDxjbCsGHsmRjOZBx8C_Dj43xNPw?usp=sharing
