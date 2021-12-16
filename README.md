@@ -29,6 +29,7 @@ In addition to the uploaded content in this repository, most (almost all) of the
 > - [ISLR](https://github.com/SubhadeepC28/Placement-material/blob/main/Preparatory%20Material/ML%20related%20books/An%20Introduction%20to%20Statistical%20Learning.pdf) - This is probably a starting point for anybody interested in ML. 
 > - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) by Google. It's pretty simple tbh. Can have a look into it.
 > - [IBM Cloud Learn Hub](https://www.ibm.com/cloud/learn) - This is also useful for reading up on a variety of topics, explained in simple terms. However not all ML related content would be available here. 
+> - [The 100 page machine learning] (http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf) - This is a very very important resource to brush up ML concepts before interviews. 
 ### 3. For SQL:
 > - [Cracking the SQL Interview](https://github.com/xoraus/CrackingTheSQLInterview/blob/master/Cracking-the-SQL-Interview.pdf) - Should be good enough to start with.
 > - [SQLBolt](https://sqlbolt.com/) - This site contains simple, interactive exercises. Might be helpful to get the basics cleared out.
