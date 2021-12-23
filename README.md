@@ -24,7 +24,7 @@ In addition to the uploaded content in this repository, most (almost all) of the
 > - [BrainStellar](https://brainstellar.com/puzzles/) - This one is Important!
 > - [Geek For Geeks](https://www.geeksforgeeks.org/puzzles/)
 > - [50 Challenging Problems in Probability](https://github.com/SubhadeepC28/Placement-material/blob/main/Preparatory%20Material/Puzzles/fifty_challenging_problems_in_probability.pdf) - Must do. Will never get a direct question, but important to improve the approach for solving problems.
->  - Problelms that we came across: https://drive.google.com/drive/folders/1yDc9HDxjbCsGHsmRjOZBx8C_Dj43xNPw?usp=sharing
+
 ### 2. For ML related content:
 > - [ISLR](https://github.com/SubhadeepC28/Placement-material/blob/main/Preparatory%20Material/ML%20related%20books/An%20Introduction%20to%20Statistical%20Learning.pdf) - This is probably a starting point for anybody interested in ML. 
 > - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) by Google. It's pretty simple tbh. Can have a look into it.
