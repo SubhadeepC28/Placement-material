@@ -4,6 +4,7 @@ Contains placement related material from our on-campus placements, 2021 at IIT B
 > - [**Abhishek Narayan Chaudhury**](https://www.linkedin.com/in/abhishek-chaudhury-07422b191) - Placed at TCS, Kolkata as Research and Innovation (R&I) Engineer
 > - [**Chesta Pahuja**](https://www.linkedin.com/in/chesta-pahuja-b13b83118) - Placed at Accenture Solutions as Senior Analyst (OPS | Data Science | AI)
 > - [**Mahim Katiha**](https://www.linkedin.com/in/mahim-katiha-2a14341a0) - Placed at Standard Chartered GBS as	Associate Manager (Analytics)
+> - [**Rishabh Jain**](https://www.linkedin.com/in/mr-actuary)- Placed at Accenture Solutions as Senior Analyst (OPS | Data Science | AI)
 > - [**Saptarshi Majumder**](https://www.linkedin.com/in/saptarshi-majumder-62251369) - Placed at Flipkart, Bangalore as Data Scientist 
 > - [**Subhadeep Chaudhuri**](www.linkedin.com/in/subhadeep-chaudhuri) - Placed at Honda R&D, Japan as Data Analyst  
 
